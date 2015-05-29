@@ -1,2 +1,2 @@
 # .vimrc
-only for stay.
+trash that nothing to say.
