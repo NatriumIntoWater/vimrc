@@ -1,0 +1,2 @@
+# .vimrc
+only for stay.
